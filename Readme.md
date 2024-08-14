@@ -57,3 +57,6 @@ python chatterbox_app.py
 - Text-to-speech functionality is provided by pyttsx3.
 - Sentiment analysis is performed using TextBlob.
 
+## GUI Example
+![alt text](image-1.png)
+
